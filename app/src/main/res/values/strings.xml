@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TrackStockApp</string>
+
+    <string name="api_key">L84QQW5YNR1VF8MM</string>
+    <string name="No_Internet_Connection_Detected">No Internet Connection Detected</string>
+
+    <string name="api_token">L84QQW5YNR1VF8MM</string>
+    <string name="Search_Symbol">Search Symbol</string>
+
+</resources>
